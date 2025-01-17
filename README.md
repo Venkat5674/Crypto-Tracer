@@ -88,6 +88,11 @@ This application uses the following API to fetch cryptocurrency data:
 
 2. Deploy the `build/` folder to a hosting service like Vercel or Netlify.
 
+## Live Link
+
+Link: https://live-crypto-tracker-venkat.netlify.app/
+
+
 ## Contributing
 
 1. Fork the repository.
